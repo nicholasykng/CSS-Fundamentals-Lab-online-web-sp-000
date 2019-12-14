@@ -34,4 +34,5 @@ figcaption {
   display: block;
   background-color: red;
   width: 25%;
+  text-align: center;
 }
